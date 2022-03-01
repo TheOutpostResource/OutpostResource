@@ -1,0 +1,11 @@
+{
+"hk416_shoot": {"sounds":["gun/hk416/shoot2","gun/hk416/shoot3"]},
+"hk416_swap": {"sounds": ["gun/hk416/swap"]},
+"hk416_magdraw1": {"sounds": ["gun/hk416/magdraw1"]},
+"hk416_magdraw2": {"sounds": ["gun/hk416/magdraw2"]},
+"hk416_reload1": {"sounds": ["gun/hk416/reload1"]},
+"hk416_reload2": {"sounds": ["gun/hk416/reload2"]},
+"hk416_reload3": {"sounds": ["gun/hk416/reload3"]},
+"hk416_tactical_reload1": {"sounds": ["gun/hk416/tactical_reload1"]},
+"hk416_tactical_reload2": {"sounds": ["gun/hk416/tactical_reload2"]}
+}

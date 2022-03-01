@@ -1,0 +1,9 @@
+{
+"parent":"item/gun/hk416/base-0",
+"display":{
+"firstperson_righthand":{
+"rotation":[-1.475,-0.08,0],
+"translation":[-8.96,16.6,7.785]
+}
+}
+}

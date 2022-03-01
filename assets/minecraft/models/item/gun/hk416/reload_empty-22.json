@@ -1,0 +1,9 @@
+{
+"parent":"item/gun/hk416/reload_empty-21",
+"display":{
+"firstperson_righthand":{
+"rotation":[13.7,4,-24.5],
+"translation":[-7.5,16.75,6.5]
+}
+}
+}
