@@ -9,6 +9,9 @@
 "hk416_tactical_reload1": {"sounds": ["gun/hk416/tactical_reload1"]},
 "hk416_tactical_reload2": {"sounds": ["gun/hk416/tactical_reload2"]},
 
+"gun_selector": {"sounds": ["gun/selector"]},
+"gun_noammo": {"sounds": ["gun/no_ammo"]},
+
 "swap_cloth1": {"sounds": ["swap/cloth1"]},
 "swap_cloth2": {"sounds": ["swap/cloth2"]}
 }
