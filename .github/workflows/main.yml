@@ -14,11 +14,8 @@ jobs:
 
     # Steps represent a sequence of tasks that will be executed as part of the job
     steps:
-      - name: Upload a Build Artifact
-        uses: actions/upload-artifact@v3.0.0
+      - name: Upload Release
+        uses: ncipollo/release-action@v1
         with:
-          # Artifact name
-          name: TheOutPost
-          # A file, directory or wildcard pattern that describes what to upload
-          path: pack.mcmeta
-          retention-days: 5
+          artifacts: "release.zip"
+          token: ${{ secrets.GITHUB_TOKEN }}
