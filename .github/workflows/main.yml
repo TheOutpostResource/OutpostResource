@@ -17,5 +17,5 @@ jobs:
       - name: Upload Release
         uses: TheDoctor0/zip-release@0.6.1
         with:
-          name: "release.zip"
+          filename: "release.zip"
           
