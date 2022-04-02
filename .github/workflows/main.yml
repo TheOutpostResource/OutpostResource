@@ -8,8 +8,8 @@ jobs:
       uses: actions/checkout@v2
     - name: pull latest and remove old file from repo
       run: |
-        git config --global user.name "usernamehere"
-        git config --global user.email "emailhere"
+        git config --global user.name "release"
+        git config --global user.email "relase"
         git config pull.rebase false
         git pull
         rm -f release.zip
@@ -21,5 +21,5 @@ jobs:
     - name: push changes to remote
       run: |
         git add -A
-        git commit -m "new pack"
+        git commit -m "release new resource pack"
         git push --force
