@@ -1,0 +1,9 @@
+{
+"parent":"item/gun/m700/reload-2",
+"display":{
+"firstperson_righthand":{
+"rotation":[51,-1,45],
+"translation":[-7.5,16.6,5]
+}
+}
+}

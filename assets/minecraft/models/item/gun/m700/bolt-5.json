@@ -1,0 +1,9 @@
+{
+"parent":"item/gun/m700/bolt-4",
+"display":{
+"firstperson_righthand":{
+"rotation":[0,-15,13],
+"translation":[-7.5,15.6,5]
+}
+}
+}

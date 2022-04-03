@@ -1,0 +1,9 @@
+{
+"parent":"item/gun/m700/base-0",
+"display":{
+"firstperson_righthand":{
+"rotation":[2,0,0],
+"translation":[-7.4,15.7,5.25]
+}
+}
+}

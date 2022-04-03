@@ -9,6 +9,11 @@
 "hk416_tactical_reload1": {"sounds": ["gun/hk416/tactical_reload1"]},
 "hk416_tactical_reload2": {"sounds": ["gun/hk416/tactical_reload2"]},
 
+"m700_shoot": {"sounds": ["gun/m700/shoot"]},
+"m700_bolt1": {"sounds": ["gun/m700/bolt1"]},
+"m700_bolt2": {"sounds": ["gun/m700/bolt2"]},
+"m700_reload": {"sounds": ["gun/m700/reload"]},
+
 "gun_selector": {"sounds": ["gun/selector"]},
 "gun_noammo": {"sounds": ["gun/no_ammo"]},
 
