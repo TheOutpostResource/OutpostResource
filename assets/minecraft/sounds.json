@@ -17,6 +17,11 @@
 "gun_selector": {"sounds": ["gun/selector"]},
 "gun_noammo": {"sounds": ["gun/no_ammo"]},
 
+"milk_cap_twist": {"sounds": ["food/milk/cap_twist"]},
+"milk_cap_open": {"sounds": ["food/milk/cap_open"]},
+"milk_drink1": {"sounds": ["food/milk/drink1"]},
+"milk_drink2": {"sounds": ["food/milk/drink2"]},
+
 "swap_cloth1": {"sounds": ["swap/cloth1"]},
 "swap_cloth2": {"sounds": ["swap/cloth2"]}
 }
