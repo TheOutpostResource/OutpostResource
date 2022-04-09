@@ -2,21 +2,7 @@
 	"providers": [
 	{"type":"bitmap","file":"minecraft:font/black_fade.png","ascent":200,"height":100000,"chars":["Æ"]},
 	{"type":"bitmap","file":"minecraft:font/white_fade.png","ascent":300,"height":100000,"chars":["Ð"]},
-	{"type":"bitmap","file":"minecraft:font/trailer_screen.png","ascent":47,"height":100,"chars":["Ħ"]},
-	{"type":"bitmap","file":"minecraft:font/book.png","ascent":8,"height":10,"chars":["㉠"]},
-	{"type":"bitmap","file":"minecraft:font/key.png","ascent":8,"height":10,"chars":["㉡"]},
-	{"type":"bitmap","file":"minecraft:font/mouse.png","ascent":8,"height":10,"chars":["㉢"]},
-	{"type":"bitmap","file":"minecraft:font/mouse_left.png","ascent":8,"height":10,"chars":["㉣"]},
-	{"type":"bitmap","file":"minecraft:font/mouse_right.png","ascent":8,"height":10,"chars":["㉤"]},
-	{"type":"bitmap","file":"minecraft:font/blindtext1.png","ascent":8.5,"height":9,"chars":["ⓐ"]},
-	{"type":"bitmap","file":"minecraft:font/blindtext2.png","ascent":8.5,"height":9,"chars":["ⓑ"]},
-	{"type":"bitmap","file":"minecraft:font/blindtext3.png","ascent":8.5,"height":9,"chars":["ⓒ"]},
-	{"type":"bitmap","file":"minecraft:font/blindtext4.png","ascent":8.5,"height":9,"chars":["ⓓ"]},
-	{"type":"bitmap","file":"minecraft:font/blindtext5.png","ascent":8.5,"height":9,"chars":["ⓔ"]},
-	{"type":"bitmap","file":"minecraft:font/blindtext6.png","ascent":8.5,"height":9,"chars":["ⓕ"]},
-	{"type":"bitmap","file":"minecraft:font/transparency.png","ascent":8.5,"height":9,"chars":["ⓖ"]},
-	{"type":"bitmap","file":"minecraft:font/magazine.png","ascent":8.5,"height":9,"chars":["ⓗ"]},
-	{"type": "ttf","file": "minecraft:font.ttf","shift": [0, 1],"size": 9.0,"oversample": 4}
+	{"type":"bitmap","file":"minecraft:font/trailer_screen.png","ascent":47,"height":100,"chars":["Ħ"]}
 	]
 }
 
