@@ -1,0 +1,9 @@
+{
+"parent":"item/food/drink/milk/use-0",
+"display":{
+"firstperson_righthand":{
+"rotation":[32,82,0],
+"translation":[-3.75,11,3.45]
+}
+}
+}

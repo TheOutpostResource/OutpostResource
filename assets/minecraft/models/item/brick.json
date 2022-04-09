@@ -1,0 +1,33 @@
+{
+	"parent": "item/handheld",
+	"textures": {
+		"layer0": "item/brick"
+	},
+	"overrides": [
+		{ "predicate": {"custom_model_data":10000}, "model": "item/food/drink/milk/base-0"},
+		{ "predicate": {"custom_model_data":10100}, "model": "item/food/drink/milk/left-0"},
+		{ "predicate": {"custom_model_data":10200}, "model": "item/food/drink/milk/swap-0"},
+		{ "predicate": {"custom_model_data":10201}, "model": "item/food/drink/milk/swap-1"},
+		{ "predicate": {"custom_model_data":10202}, "model": "item/food/drink/milk/swap-2"},
+		{ "predicate": {"custom_model_data":10203}, "model": "item/food/drink/milk/swap-3"},
+		{ "predicate": {"custom_model_data":10204}, "model": "item/food/drink/milk/swap-4"},
+		{ "predicate": {"custom_model_data":10205}, "model": "item/food/drink/milk/swap-5"},
+		{ "predicate": {"custom_model_data":10206}, "model": "item/food/drink/milk/swap-6"},
+		{ "predicate": {"custom_model_data":10207}, "model": "item/food/drink/milk/swap-7"},
+		{ "predicate": {"custom_model_data":10208}, "model": "item/food/drink/milk/swap-8"},
+		{ "predicate": {"custom_model_data":10209}, "model": "item/food/drink/milk/swap-9"},
+		{ "predicate": {"custom_model_data":10300}, "model": "item/food/drink/milk/use-0"},
+		{ "predicate": {"custom_model_data":10301}, "model": "item/food/drink/milk/use-1"},
+		{ "predicate": {"custom_model_data":10302}, "model": "item/food/drink/milk/use-2"},
+		{ "predicate": {"custom_model_data":10303}, "model": "item/food/drink/milk/use-3"},
+		{ "predicate": {"custom_model_data":10304}, "model": "item/food/drink/milk/use-4"},
+		{ "predicate": {"custom_model_data":10305}, "model": "item/food/drink/milk/use-5"},
+		{ "predicate": {"custom_model_data":10306}, "model": "item/food/drink/milk/use-6"},
+		{ "predicate": {"custom_model_data":10307}, "model": "item/food/drink/milk/use-7"},
+		{ "predicate": {"custom_model_data":10308}, "model": "item/food/drink/milk/use-8"},
+		{ "predicate": {"custom_model_data":10309}, "model": "item/food/drink/milk/use-9"},
+		{ "predicate": {"custom_model_data":10310}, "model": "item/food/drink/milk/use-10"},
+		{ "predicate": {"custom_model_data":10311}, "model": "item/food/drink/milk/use-11"}
+		
+	]
+}
