@@ -1,0 +1,9 @@
+{
+"parent":"item/gun/winchester_m94/base-0",
+"display":{
+"firstperson_righthand":{
+"rotation":[-30,24,5],
+"translation":[-9.25,9.6,6.25]
+}
+}
+}

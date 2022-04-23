@@ -2,7 +2,9 @@
 	"providers": [
 	{"type":"bitmap","file":"minecraft:font/black_fade.png","ascent":200,"height":100000,"chars":["Æ"]},
 	{"type":"bitmap","file":"minecraft:font/white_fade.png","ascent":300,"height":100000,"chars":["Ð"]},
-	{"type":"bitmap","file":"minecraft:font/trailer_screen.png","ascent":47,"height":100,"chars":["Ħ"]}
+	{"type":"bitmap","file":"minecraft:font/trailer_screen.png","ascent":47,"height":100,"chars":["Ħ"]},
+
+	{"type": "ttf","file": "minecraft:font.ttf","shift": [0, 1],"size": 9.0,"oversample": 4} 
 	]
 }
 

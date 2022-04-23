@@ -14,6 +14,11 @@
 "m700_bolt2": {"sounds": ["gun/m700/bolt2"]},
 "m700_reload": {"sounds": ["gun/m700/reload"]},
 
+"winchester_shoot": {"sounds": ["gun/winchester_m95/shoot"]},
+"winchester_lever1": {"sounds": ["gun/winchester_m95/lever1"]},
+"winchester_lever2": {"sounds": ["gun/winchester_m95/lever2"]},
+"winchester_reload": {"sounds": ["gun/winchester_m95/reload"]},
+
 "gun_selector": {"sounds": ["gun/selector"]},
 "gun_noammo": {"sounds": ["gun/no_ammo"]},
 

@@ -1,0 +1,9 @@
+{
+"parent":"item/gun/winchester_m94/swap-8",
+"display":{
+"firstperson_righthand":{
+"rotation":[23.5,24,15],
+"translation":[-9.25,16.75,6.25]
+}
+}
+}
