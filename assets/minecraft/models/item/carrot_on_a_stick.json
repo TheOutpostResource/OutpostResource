@@ -94,24 +94,6 @@
 		{ "predicate": {"custom_model_data":231}, "model": "item/gun/hk416/sprint-1"},
 		{ "predicate": {"custom_model_data":232}, "model": "item/gun/hk416/sprint-2"},
 		{ "predicate": {"custom_model_data":233}, "model": "item/gun/hk416/sprint-3"},
-		{ "predicate": {"custom_model_data":234}, "model": "item/gun/hk416/sprint-4"},
-
-		{ "predicate": {"custom_model_data":10000}, "model": "item/gun/m700/base-0"},
-		{ "predicate": {"custom_model_data":10100}, "model": "item/gun/m700/left-0"},
-		{ "predicate": {"custom_model_data":10200}, "model": "item/gun/m700/shoot-0"},
-		{ "predicate": {"custom_model_data":10300}, "model": "item/gun/m700/zoom-0"},
-		{ "predicate": {"custom_model_data":10400}, "model": "item/gun/m700/zoom_shoot-0"},
-		{ "predicate": {"custom_model_data":10500}, "model": "item/gun/m700/swap-0"},
-		{ "predicate": {"custom_model_data":10501}, "model": "item/gun/m700/swap-1"},
-		{ "predicate": {"custom_model_data":10502}, "model": "item/gun/m700/swap-2"},
-		{ "predicate": {"custom_model_data":10503}, "model": "item/gun/m700/swap-3"},
-		{ "predicate": {"custom_model_data":10504}, "model": "item/gun/m700/swap-4"},
-		{ "predicate": {"custom_model_data":10505}, "model": "item/gun/m700/swap-5"},
-		{ "predicate": {"custom_model_data":10506}, "model": "item/gun/m700/swap-6"},
-		{ "predicate": {"custom_model_data":10507}, "model": "item/gun/m700/swap-7"},
-		{ "predicate": {"custom_model_data":10508}, "model": "item/gun/m700/swap-8"},
-		{ "predicate": {"custom_model_data":10509}, "model": "item/gun/m700/swap-9"},
-		{ "predicate": {"custom_model_data":10510}, "model": "item/gun/m700/swap-10"}
-		
+		{ "predicate": {"custom_model_data":234}, "model": "item/gun/hk416/sprint-4"}
 	]
 }
