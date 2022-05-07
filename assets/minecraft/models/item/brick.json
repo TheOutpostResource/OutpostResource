@@ -27,7 +27,14 @@
 		{ "predicate": {"custom_model_data":10308}, "model": "item/food/drink/milk/use-8"},
 		{ "predicate": {"custom_model_data":10309}, "model": "item/food/drink/milk/use-9"},
 		{ "predicate": {"custom_model_data":10310}, "model": "item/food/drink/milk/use-10"},
-		{ "predicate": {"custom_model_data":10311}, "model": "item/food/drink/milk/use-11"}
+		{ "predicate": {"custom_model_data":10311}, "model": "item/food/drink/milk/use-11"},
+
+
+
+		{ "predicate": {"custom_model_data":20000}, "model": "item/food/eat/canned_beef/base-0"},
+		{ "predicate": {"custom_model_data":20100}, "model": "item/food/eat/canned_beef/left-0"},
+		{ "predicate": {"custom_model_data":20200}, "model": "item/food/eat/canned_beef/swap-0"},
+		{ "predicate": {"custom_model_data":20300}, "model": "item/food/eat/canned_beef/use-0"}
 		
 	]
 }

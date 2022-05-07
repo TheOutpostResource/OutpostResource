@@ -1,0 +1,9 @@
+{
+"parent":"item/gun/double_barrel/swap-3",
+"display":{
+"firstperson_righthand":{
+"rotation":[-17.4,0.5,-3],
+"translation":[-7.9,14,3.5]
+}
+}
+}

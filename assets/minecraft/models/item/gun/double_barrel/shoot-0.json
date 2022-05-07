@@ -1,0 +1,9 @@
+{
+"parent":"item/gun/double_barrel/base-0",
+"display":{
+"firstperson_righthand":{
+"rotation":[2.5,0,0],
+"translation":[-8,15.6,4.75]
+}
+}
+}

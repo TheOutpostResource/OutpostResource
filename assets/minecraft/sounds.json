@@ -19,6 +19,13 @@
 "winchester_lever2": {"sounds": ["gun/winchester_m95/lever2"]},
 "winchester_reload": {"sounds": ["gun/winchester_m95/reload"]},
 
+"db_shoot": {"sounds": ["gun/double_barrel/shoot"]},
+"db_open": {"sounds": ["gun/double_barrel/open"]},
+"db_close": {"sounds": ["gun/double_barrel/close"]},
+"db_insert": {"sounds": ["gun/double_barrel/insert"]},
+"db_shell": {"sounds": ["gun/double_barrel/shell"]},
+"db_shelldrop": {"sounds": ["gun/double_barrel/shell_drop"]},
+
 "gun_selector": {"sounds": ["gun/selector"]},
 "gun_noammo": {"sounds": ["gun/no_ammo"]},
 

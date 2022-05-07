@@ -1,0 +1,9 @@
+{
+"parent":"item/gun/double_barrel/reload-34",
+"display":{
+"firstperson_righthand":{
+"rotation":[20.75,-5,27],
+"translation":[-7.5,16.5375,3.5]
+}
+}
+}
