@@ -15,6 +15,10 @@ uniform sampler2D Sampler0;
 in vec2 texCoord0;
 in vec3 vertexColor;
 
+uniform mat4 ModelViewMat;
+uniform mat4 ProjMat;
+
+
 
 void main() {
     if (isHorizon > 0.5) {

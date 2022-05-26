@@ -26,17 +26,14 @@ void main() {
 	vec3 light = vec3(0.25, 0.25, 0.25);
 	vec3 shadow = vec3(0.248, 0.248, 0.248);
 	
-	//remove shadow from all non-chat/non-hover text (level = 0) and don't remove dark_gray UI/inventory text
 	if (depthLevel == 0 && lessThan(vertexColor.rgb,shadow) == bvec3(true)) {
 		discard;
 	}
-	
-	//remove shadow from chat text
+
 	if (depthLevel == 100) {
 		discard;
 	}
 	
-	//remove shadow from hover text
 	if (depthLevel == 400) {
 		discard;
 	}
