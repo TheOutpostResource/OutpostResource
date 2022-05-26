@@ -10,6 +10,12 @@ uniform vec2 ScreenSize;
 
 out vec4 fragColor;
 
+uniform sampler2D Sampler0;
+
+in vec2 texCoord0;
+in vec3 vertexColor;
+
+
 void main() {
     if (isHorizon > 0.5) {
         discardControl(gl_FragCoord.xy, ScreenSize.x);
