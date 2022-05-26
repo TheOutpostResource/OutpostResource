@@ -24,7 +24,7 @@ void main() {
 
     float dist = -(ModelViewMat * vec4(1.0)).z;
     if (dist == 1602.) {
-        mat4 rot = Rotate(GameTime * ROTSPEED, Y) * Scale(1.1, 1.1, 1.1);
+        mat4 rot = Rotate(GameTime * ROTSPEED, Y) * Scale(1.5, 1.5, 1.5);
         gl_Position = ProjMat * ModelViewMat * vec4((vec4(Position, 0) * rot).xyz, 1.0);
     }
 }
