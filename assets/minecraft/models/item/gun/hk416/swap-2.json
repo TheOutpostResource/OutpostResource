@@ -1,9 +1,0 @@
-{
-"parent":"item/gun/hk416/swap-0",
-"display":{
-"firstperson_righthand":{
-"rotation":[-2.5,19,27],
-"translation":[-9,10,6.5]
-}
-}
-}
